@@ -1,4 +1,4 @@
-# esp32s3_openmv_lvgl
+# 梦飞 esp32s3_openmv
  
 # 安装编译指南 #
 
